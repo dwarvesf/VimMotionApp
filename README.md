@@ -38,6 +38,7 @@ macOS version >= 10.15
 ## You may also like
 - [Blurred](https://github.com/dwarvesf/Blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [Micro Sniff](https://github.com/dwarvesf/micro-sniff) - An ultra-light macOS utility that notify whenever your micro-device is being used
+- [Hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
 ## License
 - [License](https://github.com/dwarvesf/VimMotionPublic/blob/master/LICENSE)
