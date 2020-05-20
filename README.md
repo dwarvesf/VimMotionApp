@@ -19,6 +19,14 @@ VimMotion create shortcut for Native MacOS apps.
 
 
 ## 🚀 Install
+
+#### Using Homebrew
+
+```Shell
+$ brew tap dwarvesf/homebrew-tap
+$ brew cask install vimmotion
+```
+
 #### Manual download
 
 - [Download latest version](https://github.com/dwarvesf/VimMotionPublic/releases/latest)
@@ -32,8 +40,9 @@ VimMotion create shortcut for Native MacOS apps.
 <p align="center">
 	<img src="img/tutorial.gif">
 </p>
+
 ## Requirements
-macOS version >= 10.15
+macOS version >= 10.13
 
 ## You may also like
 - [Blurred](https://github.com/dwarvesf/Blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
