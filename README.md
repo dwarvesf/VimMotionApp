@@ -44,6 +44,14 @@ $ brew cask install vimmotion
 	<img src="img/tutorial.gif">
 </p>
 
+* `⌘` + ' To show scroll mode on UI.
+* `esc` or  `⌘` + ' To dismiss tags.
+* `Tab` or `Shift + Tab` to navigate between Scroll area
+* `HJKL` to scroll
+<p align="center">
+	<img width="400" src="img/feature_scroll.png">
+</p>
+
 ## Requirements
 macOS version >= 10.13
 
