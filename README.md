@@ -37,6 +37,7 @@ $ brew cask install vimmotion
 - Launch Hidden and drag the icon in your menu bar (hold CMD) to the right so it is between some other icons.
 
 ## 🕹 Usage
+# Hint mode.
 
 * `⌘ + ;` To show tags on UI.
 * Type Tag title to filter and trigger action, `Delete` if you want to refilter tags.
@@ -45,6 +46,8 @@ $ brew cask install vimmotion
 	<img src="img/tutorial.gif">
 </p>
 
+
+# Scroll mode
 * `⌘ + '` To show scroll mode on UI.
 * `esc`, `⌘ + w` or  `⌘ + ;` To dismiss scroll mode.
 * `Tab` or `Shift + Tab` to navigate between Scroll area
