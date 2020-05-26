@@ -46,7 +46,7 @@ $ brew cask install vimmotion
 </p>
 
 * `⌘ + '` To show scroll mode on UI.
-* `esc`, `⌘ + w` or  `⌘ + ;` To dismiss tags.
+* `esc`, `⌘ + w` or  `⌘ + ;` To dismiss scroll mode.
 * `Tab` or `Shift + Tab` to navigate between Scroll area
 * `HJKL` to scroll
 <p align="center">
