@@ -38,14 +38,15 @@ $ brew cask install vimmotion
 
 ## 🕹 Usage
 
-* `⌘` + ; To show tags on UI.
-* `esc` or  `⌘` + ; To dismiss tags.
+* `⌘ + ;` To show tags on UI.
+* Type Tag title to filter and trigger action, `Delete` if you want to refilter tags.
+* `esc`, `⌘ + w` or  `⌘ + ;` To dismiss tags.
 <p align="center">
 	<img src="img/tutorial.gif">
 </p>
 
-* `⌘` + ' To show scroll mode on UI.
-* `esc` or  `⌘` + ' To dismiss tags.
+* `⌘ + '` To show scroll mode on UI.
+* `esc`, `⌘ + w` or  `⌘ + ;` To dismiss tags.
 * `Tab` or `Shift + Tab` to navigate between Scroll area
 * `HJKL` to scroll
 <p align="center">
