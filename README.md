@@ -42,6 +42,8 @@ $ brew cask install vimmotion
 * `⌘ + ;` To show tags on UI.
 * Type Tag title to filter and trigger action, `Delete` if you want to refilter tags.
 * `esc`, `⌘ + w` or  `⌘ + ;` To dismiss tags.
+* `Spacebar` to temporary hide tags for 0.75s. This helping you see contents under tags without dismiss and reopen Hint mode. 
+* `Tab` to show Switch window mode, `Tag` again to hide it.(This feature required Screen Recording permission to capture windows image for using as thumbnails)
 <p align="center">
 	<img src="img/tutorial.gif">
 </p>
