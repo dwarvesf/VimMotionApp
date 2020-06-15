@@ -16,8 +16,8 @@ We are bringing vim-easymotion to macOS , where most UI elements can be acces
 Along with the favorite Vimari ext on Safari or Vimium on Chrome, vim users will gain a new power.
 
 <p align="center">
-	<img width="400" src="img/screenshot.png">
-	<img width="400" src="img/screenshot2.png">
+	<img src="img/screenshot.png">
+	<img src="img/screenshot2.png">
 </p>
 
 
@@ -48,6 +48,15 @@ $ brew cask install vimmotion
 	<img src="img/tutorial.gif">
 </p>
 
+Assign any Hotkey and Tags label, Revert J <-> K to scroll up - down if you want. 
+<p align="center">
+	<img src="img/preferences.png">
+</p>
+
+Easy to switch windows of Active workspace with `Tab` in Hint mode.
+<p align="center">
+	<img src="img/switch.png">
+</p>
 
 # Scroll mode
 * `⌘ + '` To show scroll mode on UI.
@@ -55,7 +64,7 @@ $ brew cask install vimmotion
 * `Tab` or `Shift + Tab` to navigate between Scroll area
 * `HJKL` to scroll, you can go to Preferences window to revert J <-> K.
 <p align="center">
-	<img width="400" src="img/feature_scroll.png">
+	<img src="img/feature_scroll.png">
 </p>
 
 ## Requirements
