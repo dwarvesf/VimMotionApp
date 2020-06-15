@@ -58,6 +58,13 @@ Easy to switch windows of Active workspace with `Tab` in Hint mode.
 	<img src="img/switch.png">
 </p>
 
+Multiple monitor supported.
+<p align="center">
+	<img src="img/multiple.JPG">
+</p>
+
+
+
 # Scroll mode
 * `⌘ + '` To show scroll mode on UI.
 * `esc`, `⌘ + w` or  `⌘ + ;` To dismiss scroll mode.
@@ -66,6 +73,7 @@ Easy to switch windows of Active workspace with `Tab` in Hint mode.
 <p align="center">
 	<img src="img/feature_scroll.png">
 </p>
+
 
 ## Requirements
 macOS version >= 10.13
