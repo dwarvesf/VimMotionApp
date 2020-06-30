@@ -34,7 +34,7 @@ $ brew cask install vimmotion
 
 - [Download latest version](https://github.com/dwarvesf/VimMotionApp/releases/latest)
 - Open and drag the app to the Applications folder.
-- Launch Hidden and drag the icon in your menu bar (hold CMD) to the right so it is between some other icons.
+- Launch VimMotion and drag the icon in your menu bar (hold CMD) to the right so it is between some other icons.
 
 ## 🕹 Usage
 # Hint mode.
