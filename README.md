@@ -2,7 +2,10 @@
 	<img width="100" src="img/Icon.png">
 </p>
 <p align="center">
-<a href="https://github.com/dwarvesf/VimMotionApp/releases/latest">
+	<a href="https://webuild.community">
+        	<img src="https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg" />
+	</a>
+	<a href="https://github.com/dwarvesf/VimMotionApp/releases/latest">
  		<img src="https://img.shields.io/badge/download-latest-brightgreen.svg" alt="download">
 	<a href="https://img.shields.io/badge/platform-macOS-lightgrey.svg">
  		<img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform">
