@@ -5,7 +5,7 @@
 	<a href="https://webuild.community">
         	<img src="https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg" />
 	</a>
-	<a href="https://github.com/dwarvesf/VimMotionApp/releases/latest">
+	<a href="https://github.com/consolelabs/VimMotionApp/releases/latest">
  		<img src="https://img.shields.io/badge/download-latest-brightgreen.svg" alt="download">
 	<a href="https://img.shields.io/badge/platform-macOS-lightgrey.svg">
  		<img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform">
@@ -35,7 +35,7 @@ $ brew cask install vimmotion
 
 #### Manual download
 
-- [Download latest version](https://github.com/dwarvesf/VimMotionApp/releases/latest)
+- [Download latest version](https://github.com/consolelabs/VimMotionApp/releases/latest)
 - Open and drag the app to the Applications folder.
 
 ## 🕹 Usage
@@ -81,9 +81,8 @@ Multiple monitor supported.
 macOS version >= 10.13
 
 ## You may also like
-- [Blurred](https://github.com/dwarvesf/Blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
-- [Micro Sniff](https://github.com/dwarvesf/micro-sniff) - An ultra-light macOS utility that notify whenever your micro-device is being used
-- [Hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [Blurred](https://apps.apple.com/app/id1497527363) - A macOS utility that helps reduce distraction by dimming your inactive noise
+- [Hidden](https://github.com/consolelabs/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
 ## License
 
